@@ -2,7 +2,7 @@
 
 ## Supported tags and respective `Dockerfile` links
 
-* [`10`, `latest` _(Dockerfile)_](https://github.com/tiangolo/node-frontend/blob/master/Dockerfile)
+* [`12`, `latest` _(Dockerfile)_](https://github.com/suimong/node-frontend/blob/master/Dockerfile)
 
 # Node.js frontend development with Chrome Headless tests
 
