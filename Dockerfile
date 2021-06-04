@@ -1,4 +1,4 @@
-FROM node:12
+FROM node:14
 
 
 # Puppeteer dependencies, from: https://github.com/GoogleChrome/puppeteer/blob/master/docs/troubleshooting.md#running-puppeteer-in-docker
